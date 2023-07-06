@@ -1,0 +1,10 @@
+configserver:
+    name: funtana service config
+    status: 已连接funtana配置中心！
+
+# JWT全局密钥,会覆盖本地配置！
+jhipster:
+    security:
+        authentication:
+            jwt:
+                secret: clubsclubsclubsclubs
